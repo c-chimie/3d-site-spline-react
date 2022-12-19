@@ -71,7 +71,7 @@ const Wrapper = styled.div`
 
     @media (max-width: 1024px) {
       transform: scale(0.8) translateX(200px);
-      /* transform-origin: top; */
+      transform-origin: top;
     }
     @media (max-width: 800px) {
       transform: scale(0.7) translateX(600px);
